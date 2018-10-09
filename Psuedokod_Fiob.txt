@@ -1,0 +1,18 @@
+prompt user for Month of birth
+save Month of birth as MOB
+calculate 1250 * 10 * 3 + 1250 * 3 = studiebidrag
+if MOB = Juni, Juli, Augusti, September
+substract 625 from studiebidrag
+
+
+pengar = 347
+1burk = 13,95
+3burk = 30
+burkar = 0
+
+if pengar >= 30 substract 3burk from pengar add 3 to burkar
+if pengar >= 13,95 substract 1burk from pengar add 1 to burkar
+
+print burkar
+
+
